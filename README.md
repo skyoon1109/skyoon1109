@@ -7,17 +7,10 @@
 `🧩 Combinatorial Optimization` • `🏭 Applications of OR & RL` • `🧠 ML for Optimization`
 
 ## 🚀Skills
-Optimization tools
- 
-<img src="https://img.shields.io/badge/Gurobi-EE3524?style=for-the-badge&logo=Gurobi&logoColor=white"> <img src="https://img.shields.io/badge/Cplex-4B64F4?style=for-the-badge"> 
+- Optimization tools : <img src="https://img.shields.io/badge/Gurobi-EE3524?style=for-the-badge&logo=Gurobi&logoColor=white"> <img src="https://img.shields.io/badge/Cplex-4B64F4?style=for-the-badge"> 
+- ML Frameworks : <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> 
 
-ML Frameworks
-
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> 
-
-Programming Languages
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white">
+- Programming Languages : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white">
 
 ## 📧 Contact
 - skyoon1109@ajou.ac.kr
