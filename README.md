@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=150&text=SEUNGKYU's%20GITHUB&fontSize=36&fontAlign=75&fontAlignY=31&animation=twinkling)
-## 🏫Education
+
+## 🏫Education <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
 - B.S. in Ajou University
 - `Major: 🏭 Industrial Engineering` | `Double Major: 🤖 Applied Artificial Intelligence`
 
